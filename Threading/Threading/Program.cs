@@ -42,6 +42,7 @@ namespace Threading
            
             //Uden joinmetoderne, så ville main skrive Hello from Main når den kan 
             Console.WriteLine("Hello from main");
+            Console.WriteLine("Hat");
             Console.ReadKey();
 
         }
