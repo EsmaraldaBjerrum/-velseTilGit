@@ -1,0 +1,7 @@
+C:\Users\Esma\Documents\Sundhedsteknologi\3. semester\Programmering 3\Opgaver\Trådprogrammering\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\Esma\Documents\Sundhedsteknologi\3. semester\Programmering 3\Opgaver\Trådprogrammering\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\Esma\Documents\Sundhedsteknologi\3. semester\Programmering 3\Opgaver\Trådprogrammering\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\Esma\Documents\Sundhedsteknologi\3. semester\Programmering 3\Opgaver\Trådprogrammering\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+C:\Users\Esma\Documents\Sundhedsteknologi\3. semester\Programmering 3\Opgaver\Trådprogrammering\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\Esma\Documents\Sundhedsteknologi\3. semester\Programmering 3\Opgaver\Trådprogrammering\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\Esma\Documents\Sundhedsteknologi\3. semester\Programmering 3\Opgaver\Trådprogrammering\Threading\Threading\obj\Debug\Threading.pdb
